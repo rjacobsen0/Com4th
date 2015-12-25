@@ -4,7 +4,7 @@ The community's fourth estate...Computers write stories about bills and laws tha
 RJacobsen is a professional software engineer working in Portland Oregon.
 
 # Background
-There are fewer and fewer journalists. American democracy is suffering from not having a functioning fourth estate. We need an open source project to teach computers to keep an eye on what lawmakers are doing and tell the community what we need to know.
+There are fewer and fewer journalists. American democracy is suffering from not having a functioning fourth estate. We need an open source project to teach computers to keep an eye on what lawmakers are doing and tell the community what we need to know to vote in our democracy.
 
 # Scope
 The first objective is to scrape the web for bills from the Oregon Legislature and categorize them according to the categories listed on wikipedia's areas of law page https://en.wikipedia.org/wiki/List_of_areas_of_law.
