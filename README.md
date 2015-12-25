@@ -17,6 +17,10 @@ Have the computer write stories about each new bill. These stories should includ
 
 Serve stories to subscribers who are interested in that kind of bill or area of law.
 
+Track trends in bills becoming laws. Track trends in bills moving from state to state or municipality to municipality. Build on the capabilities which came before.
+
+Answer questions about laws. Continue to build on what came before.
+
 # Impact
 Inform the public when a bill is being considered by their representatives. Especially communities who lack lobbyists and may not even know when they are effected by a bill.
 
